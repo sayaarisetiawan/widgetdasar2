@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">widgetdasar2</string>
+    <string name="latar_gelap">Latar Belakang Gelap</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
